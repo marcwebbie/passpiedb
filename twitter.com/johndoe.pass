@@ -1,0 +1,31 @@
+comment: !!python/unicode ''
+fullname: !!python/unicode 'johndoe@twitter.com'
+login: !!python/unicode 'johndoe'
+modified: 2016-02-03 17:54:00.710279
+name: !!python/unicode 'twitter.com'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf+Ld0t75zn+27g+ROTM0VTsVA9JjayRd0KUgKRDPMdhyz5
+
+  pf7i1DNh7CP7x1uRWP7/A/x9jmzaFoBmkF7cLJ2jivz4rXqJe+xVDcLp6MnsRFP1
+
+  tjs/At4C+CjKJ7WfjqKpA8icNxU3uk5vzEhtrA/FakuK8FQHsCtUtDH2OhlXsGpP
+
+  mhueELBBNfHJBbbLXecxzpLKIlXEs2zKtab8UasXwvohltXQZNX+QZF/HvOeOX56
+
+  XrdqgjE2+sEBaK1gutte20Tj3027itdsd1/o2vYfJfPQf3jJU2AFCAzY31LG5ah0
+
+  0dQAKGXrLG5T49L4oEWtE38KWg5XIjvnXM5rbSiJ/dJbATWu++Hv8gzeN31JtZSn
+
+  FdVTZajMcO/+HQYIXK0l+itQfQigedEl/Gwxeod2jJjios5//XW3zuFX7W3yP1jb
+
+  aReC0B6aozL/asopil05aDim0MWyAC0Y8kIkNQ==
+
+  =OdQu
+
+  -----END PGP MESSAGE-----
+
+  '
