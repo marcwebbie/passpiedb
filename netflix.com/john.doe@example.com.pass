@@ -1,0 +1,31 @@
+comment: !!python/unicode 'Main netflix account'
+fullname: !!python/unicode 'john.doe@example.com@netflix.com'
+login: !!python/unicode 'john.doe@example.com'
+modified: 2016-02-03 17:53:58.777742
+name: !!python/unicode 'netflix.com'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf/Zh5K06gZbbKKS+Tc+PLVTx9Vh1HCb1iSwmNdtVjk2uuE
+
+  bAiHxgusRkMJ/JceZ30kMkp/mZksrtl3RZwO7THnH4Fw54omk7Ryi2HbOhd+/sFb
+
+  DIgkwwSjbTV36aFVuoVH7/NgW0V7H3YHigiTsJN1zXuJk6eea3n5KdqitDixQrWx
+
+  U4Wfzy1Nzzr9GXmypG1BDP9UsOIXwT4DjD2cLfPhPM0KFZqY17hMmADoIlEE71CE
+
+  22XpVcPXKhOAvnilbTILxSu6d0VDngnruSTjWmriTcK3Ahh2xvQdc6AVLYjAPPqE
+
+  AJO0y+/AI68Hr56195XIB90gu0kZLf5xqQcRrdW1I9JbAZE1IBktvcLgDtmq7XGE
+
+  vRhF+Qg5VoDJsEzrINO6QKZfKRsemADjR2aWpxTD/1l8dEIHZWHQ+l14WusxUws+
+
+  0bF6wr9U0uUwpFW3TH+4ClIHaUyL1sQE5NNRRA==
+
+  =sdyp
+
+  -----END PGP MESSAGE-----
+
+  '
