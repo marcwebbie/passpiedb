@@ -1,0 +1,31 @@
+comment: !!python/unicode ''
+fullname: !!python/unicode 'john.doe@example.com@amazon.com'
+login: !!python/unicode 'john.doe@example.com'
+modified: 2016-02-03 17:53:54.413119
+name: !!python/unicode 'amazon.com'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf/dbzLk6qumQi75WW/KvffQg55jPgDMSKRkPgGVMBwdO0a
+
+  TTdKqxfCylORYY1jti2hdfmQNTpFB+Is2VMDi6KWiqQ4L6jOdH/786mHxPfxCSeB
+
+  vIPtretD0i00aAAiXdQMPPsIzB1cEuESxYJjunjWK+h3iPiBhMy9JGzvqS68IMUF
+
+  cCW6U/EZQRgKg4SOCVJ4GMUaB3M0TW+thEUXM1UIlHjFWJvSS9ri6IixZuBsogkS
+
+  oxswFTblLP62/KXXGO2ivsZJKTCL9z+1ZTQ6v8WI+8EXsnNP+MLVSkinIiWoOEM4
+
+  mOMBhYEV4YrYZEJhayhQgharf101DIMQTgpfGNbUyNJbAfjdfa/60G7PNCcRDF1N
+
+  WedIyt8jzaRSuJ+ioGkkI5v678oKAEfNiMLwuyznVmk7CPTKe1j1CXYE9X6K9VJQ
+
+  BMtwwd29I6Lu/gqYjfcVFdRFKiXh8Q62MGzd/A==
+
+  =uzUh
+
+  -----END PGP MESSAGE-----
+
+  '
