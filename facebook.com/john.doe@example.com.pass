@@ -1,0 +1,31 @@
+comment: !!python/unicode ''
+fullname: !!python/unicode 'john.doe@example.com@facebook.com'
+login: !!python/unicode 'john.doe@example.com'
+modified: 2016-02-03 17:53:57.068391
+name: !!python/unicode 'facebook.com'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf9E7cudegTq4bFX6Lgkl+L1q6uRMq7/eObAu31Ok5NcAE/
+
+  XRssDypFY9Ke245lt7pj2ZrArLdCt0G2ab9VlgNTFEI8sPoW++yrxK0EagIX7YHl
+
+  VlpVmjWdFFUmoWZ27BZRSCF2rvQWy4x5RTSW0ANyjybTwzP3AhgyMg4Z6TXNNrKH
+
+  VSTgMM/xyzyP30MxiZSeisEh2bk5z/N1xvvn+Zq6d9zrHlu03pa0YBc8VDnRqy0i
+
+  yeD0XuF6O2V1fJDj8HXrAr+pwafLrn9VYDxDZaZdYaM7m/B9LrCqdohODI2r4/iU
+
+  zgH8MH2acADFgB5hfjgqNC4W/NbFI0f3zdBRxOJbp9JbAS47dg2Q+FjSjFdOBS5y
+
+  pNkbfy5JkFOsEXcMSH5QB3fesHu1Klfdjnv1Ttjdlfn/EFoF3X+jN+Ga3Mx3SDOi
+
+  0l+jZ0urpw3ffCy6l2M6wcpWIrdywdhyc6pqEQ==
+
+  =0U0N
+
+  -----END PGP MESSAGE-----
+
+  '
