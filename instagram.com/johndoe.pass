@@ -1,0 +1,31 @@
+comment: !!python/unicode ''
+fullname: !!python/unicode 'johndoe@instagram.com'
+login: !!python/unicode 'johndoe'
+modified: 2016-02-03 17:54:00.050843
+name: !!python/unicode 'instagram.com'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf+JFibxEQj93dWJvSI8G7Ak5HbgfoSQ2ST5Wwl+tCPzBkE
+
+  iixUEt/yiFw68OX64+hKmmXeV+dKpj/T53DFCfX6CuYq352QuZKOYhPbRtR4ztXE
+
+  hdk0F/8LC8v+2V3AE7DU9H6J9pKtfJZQKUpTgXXJCyxJZMxl72KH726TDMYRANsv
+
+  0GmfO30jDiXPiDlJSjCj6PWelh5vejeLIc2IWiAqs+9eumts/nyEMAMT0w2u6OMN
+
+  T66y1DdTsCD8X7jtPUoVjsNO+2CwYeuWX7QZ3QkBIZnIzdu14F1+1kJ9HptjPufT
+
+  NqobXWKYtoZ/x6krasWNwwTy0s/DNuvaFwUtDfVVg9JbAWWR2TPuFAjqt2zbrjs0
+
+  RlrDRTrX7pmhX+v6lNvdxxIWIxuFEO+m5tQv8EZ4L79G0QuSH8ipzBZnLbQTrCGa
+
+  ABjWg7kLw37BRBDXJjUlvtC3EyxfNd4F+IZ7FQ==
+
+  =khE1
+
+  -----END PGP MESSAGE-----
+
+  '
