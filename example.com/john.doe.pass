@@ -1,0 +1,31 @@
+comment: !!python/unicode 'Main email account'
+fullname: !!python/unicode 'john.doe@example.com'
+login: !!python/unicode 'john.doe'
+modified: 2016-02-03 17:53:54.075854
+name: !!python/unicode 'example.com'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQgAnCnySugXIz4bzMAOTn4dRXh+FnTNqUfDGxmev2eqDPak
+
+  9CNqeJxdOZILPu+s0FwlD+AJtmn1fRwFTwlmMuxPW8MOtZYxDze3dKinDRaJlzyv
+
+  zVMrIi+fMoHRfQiGLx942cr1MafGV1MMxLjgYP0gs6XRgrUJs+KzlL06HiUSKL6M
+
+  jP9yy6G/JD6HHDtisF+ShFvSxFwBey+uOrXKdqsB00rrgrhyo3jmN22Ik/JnYR36
+
+  AlSfqPyi65yZnlsWwFXDeKJpvMBfBYs7RVFchmJCuASmz0Xl5BSuApMzsDfODw9O
+
+  uaCg/bG1cVwBeFQ6YwbRPS85uFc7G0ahKg4neMLtCtJbAYCV27BT8DHz4Id1RO4u
+
+  B/6viG+P+e7CmVCNkYYyxEkuDXqct0OhOUmtlvgtUGjBel2t3ZhNSttk41XsJQAO
+
+  9RDpf7LweB7xi+AVuYaeCuChf4wGYtKbFrCg2g==
+
+  =Eei3
+
+  -----END PGP MESSAGE-----
+
+  '
