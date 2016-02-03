@@ -1,0 +1,31 @@
+comment: !!python/unicode ''
+fullname: !!python/unicode 'johndoe@steam'
+login: !!python/unicode 'johndoe'
+modified: 2016-02-03 17:53:59.397502
+name: !!python/unicode 'steam'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf+OQKqmWrMUGdoTaxbGA5Uf0jdFHHNp7Z/97Cw4kaPWmmh
+
+  xsCjTddUuKNQfcn773mYwM2vIMfFGhqTLMkBwp1TT4rshztbrhRqKVsrYKLhml/Y
+
+  vuuSe09KkwFmzXjIM3HpxdID/WvZCqASV0tuwAG7w7HW14Jq68cCKptjp/Qp8XOF
+
+  +JiU6SiyVGY4sqvZThBTMBPEtdTgLQ/LfmBD0lFBvYFzKcT2AQ300ybBuluGjBy0
+
+  3yWIP34E0p0R/rq4HmnUu0ZtVECtgGXtC6Jnp0DXrMwTmaQXhbaMQq+LiycR2BSA
+
+  8NZXL8HCiVjk3J0vetiOCMcops/HpwiEjtu6fz0dlNJaAVsXjzYe3PEt63yS/qAd
+
+  LSTzxoVji6ZU2v8zIhe5V0T4R1zT6hneazDVeQCf0+07dvxM2Slk+5sSkWOULl50
+
+  +45IDCJN/9l+Q/3d8/Q/iLL1f2Wc+vCTzHTB
+
+  =Jg8C
+
+  -----END PGP MESSAGE-----
+
+  '
