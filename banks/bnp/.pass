@@ -1,0 +1,29 @@
+comment: !!python/unicode 'Personal bank account'
+fullname: !!python/unicode '@banks/bnp'
+login: ''
+modified: 2016-02-03 17:53:55.639316
+name: !!python/unicode 'banks/bnp'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf8CycqEScy6v9NW0ZI/cfG8+QYSiOGgGf42TQNFD60dv3Q
+
+  IRzi1U2AOSYNgMF1kXWi9SQisRBakXHgcFFEwhS0QH0NJ5FIcVFXztWGEqdEE2ay
+
+  3QfO2O7OP6jWLkGj6MQMKBQHYrPY7fwlY81hlGS5IB8vsVyvfZyZSvlmI6WKA1Su
+
+  pCv10jIZGihD+N9axCEu2qi8s/8qYisB43TdgkXd57tVFo/uy68X0GmXBXeQinnx
+
+  SVXUW6N7xmxoLM75PmjWOFbxDlMeCKZrKQ+OV9nPLbL3wN9ZYP+wSQveEq8e8mFo
+
+  HxFt0N76tAcgNvuyHSHZXEcZgWz+SWSFN6PLSl82GNI/AfCnZDdNFnmymvVBgRnU
+
+  Qc3up1PFe7t+V8kMxSpcmRn8nvjy+Bd2FgZ8GeMKkLRv0Lpm6fJ6psIzPkKr/+XP
+
+  =QEbb
+
+  -----END PGP MESSAGE-----
+
+  '
