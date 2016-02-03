@@ -1,0 +1,31 @@
+comment: !!python/unicode 'oauth'
+fullname: !!python/unicode 'john.doe@example.com@travis-ci.org'
+login: !!python/unicode 'john.doe@example.com'
+modified: 2016-02-03 17:53:58.171466
+name: !!python/unicode 'travis-ci.org'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf9FwWHc+QsFxBqvEGAEletAhys4IH2jLkBByBmVFcEjjmj
+
+  CL1rLhotzPPFSkLI4qy5aB3V+LiRpp1WOSdymFzvrCuTLJp3XWgz82m8MTO/iAUD
+
+  vjbRi9AxmvaEzJeId6YNG921wyTtuczzwQV70AjG9k/WKAGdP1XhZK0k2g74mD9/
+
+  JTTy67mGQfgixV235jowNQPSByZRK0MiGe0zobPAKvD9LSwFSWjObiied/nwP7bL
+
+  bTYkRynMJFWSsU+qCWe8wS0+BFDg0LyYGmCbnTEYXe5ZL43+oFAO1fqgqdMkOqoj
+
+  bRoLRXk/sOOPdSTQTjSjlLp7Qgo/EdKF1TCMxKy5cNJbAVrhJ0cuUUHeKpL+Is9Z
+
+  HOV/S7mjXZYPqbntotkiXsJfn1S37qp8u2kelDgCMyne2mfPNdumesmWaBnNJwSY
+
+  2GI6Samo8ImsZjCKMM3f5T5BBXD3+1BlnL8C2w==
+
+  =Ata1
+
+  -----END PGP MESSAGE-----
+
+  '
