@@ -1,0 +1,31 @@
+comment: !!python/unicode ''
+fullname: !!python/unicode 'john.doe@example.com@apple.com'
+login: !!python/unicode 'john.doe@example.com'
+modified: 2016-02-03 17:53:54.788480
+name: !!python/unicode 'apple.com'
+password: !!python/unicode '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEMA99VVXka2/4BAQf/VMfLoqTDGMyrG4dFoNaseiJ40jV5oY0yDu7i2taqmHez
+
+  dRIDwXsmM+VaeERaxJzRZNMLEe0z+XT7O4KjbqCw5TP7CeZLVzjcKHaVYNQa4kT0
+
+  ZoZRfZW0nv66HD8KHJnbdyrrWl+LM8ZqbRYU18Q1e83IXGCeGWS9SLmWO466naMh
+
+  5yY4tL2X2DR6tc91LFSFjG+zeyapMsV/cWZu+5hCGYnQDJxhXltCGkf62LpKCjHn
+
+  FnpytI3EOoFDWBjWJ8txMepjHgfpipk+EbJDeChhNp1303AIpRDxK1++TQE2O0aB
+
+  h0B3q5gskfkpctzmxlshLsQGf8itQWF4VmelWFfBZ9JbATDLVG4oyIWP1owF8d8g
+
+  SgeP5DFOZT74yYjw/FewJtcItWxelqUp6ok+x4s2tK1TmCaRRLV3YkpPr7C8gv6v
+
+  SmYqcJwXPXAYPGkpfNoReni8oGyElVbi9wiNTQ==
+
+  =Uh+1
+
+  -----END PGP MESSAGE-----
+
+  '
