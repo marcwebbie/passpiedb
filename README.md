@@ -9,3 +9,5 @@ list credentials:
 ```
 passpie -D https://github.com/marcwebbie/passpiedb.git
 ```
+
+More information on *passpie remote databases* on the [documentation](http://passpie.readthedocs.org/en/latest/getting_started.html#remote-databases)
